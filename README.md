@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1E3A5F,100:3B82F6&height=230&section=header&text=HanChangHee&fontSize=68&fontColor=E0F2FE&fontAlignY=38&desc=C%2B%2B%20Game%20Client%20Programmer&descSize=20&descColor=BFDBFE&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1E3A5F,100:3B82F6&height=230&section=header&text=HanChangHee&fontSize=68&fontColor=E0F2FE&fontAlignY=38&desc=Game%20Client%20Programmer&descSize=20&descColor=BFDBFE&descAlignY=58&animation=fadeIn)
 
 <h2 align="center">👋 Hi there 👋</h2>
 
