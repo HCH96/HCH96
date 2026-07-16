@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 💻 Tech Stack 💻
+<h2 align="center">💻 Tech Stack 💻</h2>
 
 #### Language
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -22,9 +22,8 @@
 </div>
 
 <div align="center">
-  
----
-### 🔗Contact Me🔗
+
+<h2 align="center">🔗Contact Me🔗</h2>
 
 <a href="mailto:sjrnfl0412@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
